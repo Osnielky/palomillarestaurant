@@ -86,8 +86,8 @@ p.desc-text {
     content: "\e600";
 }
 
-.icon-github:before {
-    content: "\e601";
+.icon-facebook:before {
+    content: "\e602";
 }
 
 .icon-twitter:before {
